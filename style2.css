@@ -1,0 +1,48 @@
+h1 {
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 500px;
+    background-color: #f1f1f1;
+    border-left: 4px solid red;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+.confirm {
+    margin: 0 auto;
+    background-color: #fbfbfb;
+    width: 450px;
+    border-radius: 10px;
+    border: 3px solid #ebebeb;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 60px;
+}
+
+.buttons{
+    display: flex;
+    column-gap: 15px;
+}
+
+.button1{
+    padding: 4px 10px;
+    background-color: #bfbfbf;
+    color: white;
+    border: 1px solid lightgray;
+    border-bottom: 2px solid gray;
+    border-radius: 5px;
+}
+
+.button2{
+    padding: 4px 10px;
+    background-color: darkorange;
+    color: white;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    border-bottom: solid 2px #E08600
+}
+    
